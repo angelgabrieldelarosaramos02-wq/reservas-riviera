@@ -1,0 +1,16 @@
+[
+  { "id": 1,  "nombre": "Cenote Azul",               "categoria": "naturaleza",   "precio": 350,  "cupo": 15, "icono": "&#127754;" },
+  { "id": 2,  "nombre": "Zona arqueologica",          "categoria": "cultura",      "precio": 480,  "cupo": 20, "icono": "&#127963;" },
+  { "id": 3,  "nombre": "Ruta en tirolesa",           "categoria": "aventura",     "precio": 750,  "cupo": 10, "icono": "&#129406;" },
+  { "id": 4,  "nombre": "Kayak en manglar",           "categoria": "aventura",     "precio": 680,  "cupo": 8,  "icono": "&#128675;" },
+  { "id": 5,  "nombre": "Ruta de sabores mayas",      "categoria": "gastronomia",  "precio": 620,  "cupo": 12, "icono": "&#127869;" },
+  { "id": 6,  "nombre": "Santuario de tortugas",      "categoria": "naturaleza",   "precio": 420,  "cupo": 18, "icono": "&#128034;" },
+  { "id": 7,  "nombre": "Clase de buceo",             "categoria": "aventura",     "precio": 950,  "cupo": 6,  "icono": "&#129343;" },
+  { "id": 8,  "nombre": "Taller de alfareria maya",   "categoria": "cultura",      "precio": 380,  "cupo": 15, "icono": "&#128334;" },
+  { "id": 9,  "nombre": "Yoga al amanecer en playa",  "categoria": "bienestar",    "precio": 250,  "cupo": 12, "icono": "&#129496;" },
+  { "id": 10, "nombre": "Parque acuatico familiar",   "categoria": "recreativo",   "precio": 450,  "cupo": 25, "icono": "&#127905;" },
+  { "id": 11, "nombre": "Paseo en lancha por laguna",  "categoria": "naturaleza",   "precio": 410,  "cupo": 14, "icono": "&#128676;" },
+  { "id": 12, "nombre": "Tour en cuatrimoto",         "categoria": "aventura",     "precio": 820,  "cupo": 8,  "icono": "&#128664;" },
+  { "id": 13, "nombre": "Noche de estrellas Maya",    "categoria": "astronomia",   "precio": 300,  "cupo": 20, "icono": "&#11088;" },
+  { "id": 14, "nombre": "Observatorio costera",       "categoria": "astronomia",   "precio": 270,  "cupo": 16, "icono": "&#128301;" }
+]
